@@ -24,6 +24,6 @@ The analysis employs several advanced time-series techniques to isolate inflatio
 * **Libraries:** `pandas`, `pandas-datareader`, `NumPy`, `statsmodels`, `Matplotlib`
 
 ## How to Run This Project
-1. Clone the repository: `git clone https://github.com/YourUsername/NY-Housing-Inflation.git`
+1. Clone the repository: `git clone [https://github.com/vpena987/Inflation-Hedging-in-NYC-Real-Estate-Quantitative-Research-Project.git]
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook or main Python script to reproduce the extraction and regression models.
